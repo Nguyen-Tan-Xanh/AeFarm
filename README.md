@@ -41,10 +41,10 @@ For seeing more views about this project please access the figma link [below](#R
 ### 3. Built With
 
 What I used to build this app:
-* HTML/CSS, Javascript.
-* Bootstrap 5.
+* HTML/CSS, Javascript
+* Bootstrap 5
 * SqlServer
-* .Net core 3.1
+* .Net core
 
 <p align="right"><a href="#top"></a></p>
 
